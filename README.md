@@ -8,8 +8,7 @@ exceptional performance due to their capacity to capture intricate patterns and 
 ##### License plate detection
 ![image](https://github.com/tanv000/License-plate-recognition/assets/144032915/a2a7649d-a19e-4eb0-8d13-b1a7461a4eb8)
 ##### OCR 
-![image](https://github.com/tanv000/License-plate-recognition/assets/144032915/9274d2c0-b4d9-4a91-ab28-118fefbd3537)
-
+![image](https://github.com/user-attachments/assets/fe427229-c497-4f66-854d-4598eacd0159)
 
 
 
